@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="toggle_speaking">Toggle Speaking</string>
+	<string name="app_name">Passenger</string>
+	<string name="speaking_enabled">Speaking is Enabled</string>
+	<string name="speaking_disabled">Speaking is Disabled</string>
+	<string name="new_message_text" formatted="false">New Message From %s. %s</string>
+	<string name="unknown_contact">Unknown Contact</string>
+</resources>
